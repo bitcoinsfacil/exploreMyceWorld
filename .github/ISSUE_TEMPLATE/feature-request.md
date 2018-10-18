@@ -1,6 +1,6 @@
 ---
-name: Suggest
-about: Feature request
+name: Feature request
+about: Suggestions
 
 ---
 
