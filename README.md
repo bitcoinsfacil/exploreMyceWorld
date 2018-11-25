@@ -15,9 +15,7 @@ Crypto economic systems are new ways of incentivizing human behavior. Their pote
 
 > We represent a profit oriented blockchain organization.
 
-A community can coordinate and act as a united group only by aligning their economic goals. A disorganized group turns immediately into **a profit oriented group**.
-
-A self-sustainable approach with clear objectives: profit and growth for it's members. By making our network bigger and dynamic we connect and empower individual actions.
+A community can coordinate and act as a united group only by aligning their economic goals. A self-sustainable approach with clear objectives: growth for it's members. By making our network bigger and dynamic we connect and empower individual actions.
 
 
 ## IMPLEMENTATION
@@ -42,6 +40,8 @@ We develop products that simplify and empower the correct use of blockchain tech
 * A profitable position for the organic growth of MYCE Organization.
 
 
-MYCE aligns it’s incentives as group by **distributing the profits of the products it develops**. We incentivize collaborative interactions and continuous open source development.
+MYCE aligns it’s incentives as group by **providing an infrastructure for it's members to build on top**. We incentivize collaborative interactions and continuous open source development.
+
+We are taking advantage of future technologie.
 
 
