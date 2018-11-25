@@ -10,13 +10,15 @@ Let us inspire:
 
 Crypto economic systems are new ways of incentivizing human behavior. Their potential is massive.
 
+
 ## IDEA 
 
 > We represent a profit oriented blockchain organization.
 
 A community can coordinate and act as a united group only by aligning their economic goals. A disorganized group turns immediately into **a profit oriented group**.
 
-By making our network bigger and dynamic we connect and empower individual actions.
+A self-sustainable approach with clear objectives: profit and growth for it's members. By making our network bigger and dynamic we connect and empower individual actions.
+
 
 ## IMPLEMENTATION
 
