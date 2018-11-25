@@ -1,8 +1,6 @@
 # MYCE WORLD
 
 
-## INTRODUCTION
-
 The blockchain is a digital, decentralized, distributed ledger. Most explanations for it’s importance start with Bitcoin and the history of money. But money is the first use case.  And it is unlikely to be the most important.
 
 Let us inspire:
